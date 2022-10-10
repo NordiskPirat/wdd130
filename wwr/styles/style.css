@@ -11,6 +11,7 @@
 nav a {
   text-align: center;
   text-decoration: none;
+  color: white;
 }
 
 #hero-msg h1 {
@@ -45,6 +46,7 @@ nav a:hover {
 .join {
   background-color: #396e94;
   text-decoration: none;
+  color: white;
 }
 
 .book:hover,
