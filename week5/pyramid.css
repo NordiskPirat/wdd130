@@ -1,0 +1,39 @@
+h1 {
+  background-color: red;
+  text-align: center;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+}
+
+h2 {
+  background-color: blue;
+  text-align: center;
+  padding: 20px;
+  width: 600px;
+  margin: auto;
+}
+
+h3 {
+  background-color: green;
+  text-align: center;
+  padding: 20px;
+  width: 900px;
+  margin: auto;
+}
+
+h4 {
+  background-color: purple;
+  text-align: center;
+  height: 200px;
+  width: 100px;
+  margin-bottom: auto;
+}
+
+h5 {
+  background-color: purple;
+  text-align: center;
+  height: 200px;
+  width: 100px;
+  margin: auto;
+}
