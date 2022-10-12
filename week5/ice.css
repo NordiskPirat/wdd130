@@ -17,4 +17,5 @@ body {
   float: none;
   border: 15px solid #444444;
   margin: 5%;
+  display: flex;
 }
