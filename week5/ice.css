@@ -1,0 +1,20 @@
+body {
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+  line-height: 0em;
+  border: 0em;
+}
+
+.circles {
+  width: 100%;
+}
+
+.pic {
+  border-radius: 50%;
+  width: 21%;
+  float: none;
+  border: 15px solid #444444;
+  margin: 5%;
+}
