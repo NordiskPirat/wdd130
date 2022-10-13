@@ -156,3 +156,9 @@ h4 {
 .card-img {
   border: 10px solid #396e94;
 }
+
+.mountains {
+  padding: 50px;
+  padding-bottom: 80px;
+  padding-left: 0%;
+}
