@@ -99,11 +99,6 @@ a {
   margin-top: 35px;
 }
 
-#flag {
-  width: 100%;
-  height: 100%;
-}
-
 /* ----------------------------------------- Subpage 1 below -------------------------------- */
 
 .sub1-grid-container {
@@ -114,8 +109,11 @@ a {
 }
 
 .p1-grid-container {
+  width: 50%;
   background-color: #b31942;
   border: 10px solid #0a3161;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .p1-grid-item {
@@ -125,8 +123,11 @@ a {
 }
 
 .p2-grid-container {
+  width: 50%;
   background-color: #b31942;
   border: 10px solid #0a3161;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .p2-grid-item {
@@ -136,8 +137,11 @@ a {
 }
 
 .p3-grid-container {
+  width: 50%;
   background-color: #b31942;
   border: 10px solid #0a3161;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .p3-grid-item {
