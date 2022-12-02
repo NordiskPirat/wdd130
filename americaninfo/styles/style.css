@@ -145,10 +145,10 @@ a {
   padding: 10px;
 }
 
-.address_pic {
+.adress_pic {
   display: block;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 130px;
   width: 50%;
   padding: 10px;
 }
