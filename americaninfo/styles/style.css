@@ -99,6 +99,23 @@ a {
   margin-top: 35px;
 }
 
+.patriot {
+  position: relative;
+  display: inline-block;
+}
+
+.patriot-content {
+  display: none;
+  position: absolute;
+  background-color: #0a3161;
+  min-width: 100px;
+  padding: 5px;
+}
+
+.patriot:hover .patriot-content {
+  display: block;
+}
+
 /* ----------------------------------------- Subpage 1 below -------------------------------- */
 
 .header1-grid-container {
