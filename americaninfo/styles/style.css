@@ -123,11 +123,12 @@ a {
   grid-template-columns: auto auto;
   background-color: #0a3161;
   padding: 10px;
-  width: 20%;
 }
 
 .header1-grid-item {
   grid-template-columns: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .menu1-grid-container {
@@ -208,4 +209,9 @@ a {
   flex: 40%;
   width: 20%;
   padding: 10px;
+}
+
+.ucflag {
+  margin-left: auto;
+  margin-right: auto;
 }
