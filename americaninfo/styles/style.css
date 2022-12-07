@@ -254,6 +254,37 @@ a {
   margin-right: auto;
 }
 
+#rushmore {
+  height: 500px;
+  width: 500px;
+}
+
+.flag13 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#flag13 {
+  padding: 20px;
+  height: 500px;
+  width: 1000px;
+}
+
+#washington {
+  height: 300px;
+  width: 300px;
+}
+
+#eagle {
+  height: 300px;
+  width: 300px;
+}
+
+#dec {
+  height: 300px;
+  width: 300px;
+}
+
 .p1p-grid-item {
   padding: 20px;
   font-size: 20px;
