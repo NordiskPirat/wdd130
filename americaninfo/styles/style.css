@@ -223,6 +223,26 @@ a {
   padding: 10px;
 }
 
+#war {
+  height: 300px;
+  width: 300px;
+}
+
+#adress {
+  height: 300px;
+  width: 300px;
+}
+
+#ucflag {
+  height: 500px;
+  width: 1000px;
+}
+
+#lincoln {
+  height: 300px;
+  width: 300px;
+}
+
 .ucflag {
   margin-left: auto;
   margin-right: auto;
