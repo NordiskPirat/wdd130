@@ -94,7 +94,9 @@ a {
   color: white;
 }
 
-.liberty {
+#liberty {
+  height: 600px;
+  width: 200px;
   margin-left: -30px;
   margin-top: 35px;
 }
@@ -114,6 +116,16 @@ a {
 
 .patriot:hover .patriot-content {
   display: block;
+}
+
+#flag {
+  height: 500px;
+  width: 1000px;
+}
+
+#logo {
+  height: 150px;
+  width: 150px;
 }
 
 /* ----------------------------------------- Subpage 1 below -------------------------------- */
