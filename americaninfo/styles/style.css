@@ -250,15 +250,6 @@ a {
 
 /* -----------------------------------------------Subpage2------------------------------------- */
 
-.rushmore {
-  margin-right: auto;
-}
-
-#rushmore {
-  height: 500px;
-  width: 500px;
-}
-
 .flag13 {
   margin-left: auto;
   margin-right: auto;
@@ -273,6 +264,7 @@ a {
 #washington {
   height: 300px;
   width: 300px;
+  margin: auto;
 }
 
 #eagle {
@@ -294,10 +286,8 @@ a {
 .p1p-grid-container {
   padding: 10px;
   display: flex;
-  width: 70%;
   background-color: #b31942;
   border: 10px solid #0a3161;
-  margin-left: auto;
   margin-right: auto;
 }
 
@@ -311,7 +301,6 @@ a {
 .p2p-grid-container {
   padding: 10px;
   display: flex;
-  width: 50%;
   background-color: #b31942;
   border: 10px solid #0a3161;
   margin-right: auto;
@@ -321,13 +310,13 @@ a {
   padding: 20px;
   font-size: 20px;
   text-align: center;
+  width: auto;
 }
 
 .p3p-grid-container {
-  display: grid;
-  grid-template-columns: 25% 25% 50%;
-  grid-template-rows: auto;
   padding: 10px;
+  display: flex;
   background-color: #b31942;
   border: 10px solid #0a3161;
+  margin-right: auto;
 }
